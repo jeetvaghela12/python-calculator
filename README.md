@@ -8,10 +8,7 @@ It includes:
 - A menu-based calculator using functions
 - A beginner-friendly one-line expression calculator
 
-## Features
-- Addition, subtraction, multiplication, division
-- Handles basic user input
-- Easy to understand for beginners
+Key Feature: User-friendly error messages to guide users in case of invalid inputs (like Division by Zero).
 
 ## How to Run
 1. Download or clone the repository
@@ -19,7 +16,7 @@ It includes:
    python calculator.py
 
 ## Purpose
-This project is created for learning Python and preparing for open-source contributions.
+A CLI-based utility designed to provide a seamless calculation experience with robust error handling for user inputs
 
 ## Author
 Jeet Vaghela
