@@ -22,4 +22,4 @@ It includes:
 This project is created for learning Python and preparing for open-source contributions.
 
 ## Author
-Beginner Python developer
+Jeet Vaghela
